@@ -1,2 +1,2 @@
 # Exercise-Renderer
-Java Software Renderer
+Rendering pixels out of a manipulated stream of bits onto a container for pixels
